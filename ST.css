@@ -1,0 +1,166 @@
+body {
+    background-color: rgb(2, 2, 40);
+    background-image: linear-gradient(45deg,rgb(2 2 12),transparent);
+    margin: 6px;
+    border: 1px solid white;
+}
+
+.container {
+    height: 100vh;
+    margin: 10px;
+}
+
+* {
+    color: white;
+   
+}
+
+.header {
+    height: 50px;
+    background-color: rgb(29, 29, 97);
+    background-image:linear-gradient(45deg, rgb(29, 29, 97), transparent);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.player_profile{
+    height: 100px;
+    border-radius: 15px; 
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.progress_bar {
+    margin-bottom: 10px;
+}
+
+.game_status {
+    display:flex;
+    height: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+
+.list_items {
+    height:280px;
+}
+
+.p1 {
+    height: 60px;
+    background-color: rgb(29, 29, 97);
+    background-image:linear-gradient(45deg, rgb(29, 29, 97), transparent);
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.p2 {
+    height: 60px;
+    background-color: rgb(29, 29, 97);
+    background-image:linear-gradient(45deg,rgb(29, 29, 97), transparent);
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.p3 {
+    height: 60px;
+    background-color: rgb(29, 29, 97);
+    background-image:linear-gradient(45deg, rgb(29, 29, 97), transparent);
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.p4 {
+    height: 60px;
+    background-color: rgb(29, 29, 97);
+    background-image:linear-gradient(45deg,rgb(29, 29, 97), transparent);
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.winning_ticket {
+    display: flex;
+    flex-direction: row;
+    
+    margin-left: 600px;
+    
+    background-color: rgb(29, 29, 97);
+}
+
+.game_status {
+    padding: 10px;
+    background-color: rgb(29, 29, 97);
+}
+
+.pp1 {
+    width: 14%;
+    padding:20px;
+    background-color:rgb(29, 29, 97) ;
+    border-radius: 20px;
+    margin:2px;
+   
+}
+
+.pp2 {
+    width: 14%;
+    padding:20px;
+    background-color:rgb(29, 29, 97) ;
+    border-radius: 20px;
+    margin:2px;
+   
+}
+
+.pp3 {
+    width: 14%;
+    padding:20px;
+    background-color:rgb(29, 29, 97) ;
+    border-radius: 20px;
+    margin:2px;
+    
+}
+
+
+.pp4 {
+    width: 14%;
+    padding:20px;
+    background-color:rgb(29, 29, 97) ;
+    border-radius: 20px;
+    margin:2px;
+    
+}
+
+.pp5 {
+    width: 14%;
+    padding:20px;
+    background-color:rgb(29, 29, 97) ;
+    border-radius: 20px;
+    margin:2px;
+
+}
+
+.pp6 {
+    width: 14%;
+    padding:20px;
+    background-color:rgb(29, 29, 97) ;
+    border-radius: 20px;
+    margin:2px;
+    
+}
+
+.pp7 {
+    width: 14%;
+    padding:20px;
+    background-color:rgb(29, 29, 97) ;
+    border-radius: 20px;
+    margin:2px;
+    
+}
+
+
